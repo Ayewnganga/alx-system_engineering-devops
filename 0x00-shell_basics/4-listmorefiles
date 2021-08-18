@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a (list more files)
+ls -a
